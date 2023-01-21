@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="grey">
+    <marquee behaviour="slide"
+    direction = right
+    bgcolor="sky blue"
+    height="50">
+        <h2><i>SRI GURU GOBIND SINGH COLLEGE</i></h2>
+    </marquee>
+    <br>
+    <b><ol type="A">
+        <li>Undergraduate</li>
+        <ol type="I">
+            <li>Science</li>
+            <ul type="disc">
+                <li>B.sc-1</li>
+                <li>B.sc-2</li>
+                <li>B.sc-3</li>
+            </ul>
+            <li>Commerce</li>
+            <ul type="disc">
+                <li>B.com-1</li>
+                <li>B.com-2</li>
+                <li>B.com-3</li>
+            </ul>
+            <li>Humanities</li>
+            <ul type="disc">
+                <li>B.A.-1</li>
+                <li>B.A.-2</li>
+                <li>B.A.-3</li>
+            </ul>
+        </ol>
+        <br>
+        <li>Post-Graduate</li>
+        <ol type="I">
+            <li>Science</li>
+            <ul type="disc">
+                <li>M.sc-1</li>
+                <li>M.sc-2</li>
+            </ul>
+            <li>Commerce</li>
+            <ul type="disc">
+                <li>M.com-1</li>
+                <li>M.com-2</li>
+            </ul>
+            <li>Humanities</li>
+            <ul type="disc">
+                <li>M.A.-1</li>
+                <li>M.A.-2</li>
+            </ul>
+        </ol>
+    </ol>
+    </b>
+</body>
+</html>
